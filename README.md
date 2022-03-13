@@ -30,7 +30,7 @@
 
 > - Front-End: React.js, sass
 > - Back-End: Python, Django web fremework, Bcrypt, MySQL
-> - Common: Git, Github
+> - Common: Git, Github, trello
 
 ### 구현 기능
 
